@@ -1,4 +1,4 @@
-![Alt text](../image.png)
+![Alt text](image.png)
 
 This is the offical CosmodiumCS github organizaion! Here you can see our different open-source projects. Feel free to make a pull request and contribute!
 
