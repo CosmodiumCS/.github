@@ -18,5 +18,8 @@ Started Cosmodium at 17 and since then has made significant changes in the cyber
 
 [SpiritualGoose](https://github.com/SpiritualGoose): **Directory of Education** A well educated man who manages the development of educational content and course material.
 
+## Resources
+Please see the [resources](https://github.com/CosmodiumCS/resources) repository to see a list of tools.
+
 ## Support
 You can join the [offical discord server](https://discord.gg/dNGcQh9ebY) for support.
