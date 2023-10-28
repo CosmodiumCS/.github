@@ -39,7 +39,7 @@ The GitHub Organization for the craziest offensive development group, CosmodiumC
 <!-- BLOG-POST-LIST:END -->
 
 ## Leadership:
-- [Cosmo](https://github.com/PrettyBoyCosmo): ** Chief Executive** 
+- [Cosmo](https://github.com/PrettyBoyCosmo): **Chief Executive** 
 - [Wyrd](https://github.com/wyrdCCS): **Chief of Operations**
 - [Soul](https://github.com/Soulsender): **Development Director**
 - [Sysgerm](https://github.com/SysGerm): **Research Director**
