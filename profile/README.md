@@ -24,7 +24,7 @@ An offensive development group, led by [bluecosmo](https://github.com/prettyboyc
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=resources&theme=react)](https://github.com/CosmodiumCS/resources)
 ---
 
-## Marks:
+## Marks: [UNCLASSIFIED]
 - Visit [CCMS]() for more information on marking system
 
 | MARK | DESCRIPTION | YT |
