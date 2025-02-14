@@ -1,4 +1,4 @@
-# Cosmodium Cyber Security
+# Cosmodium CyberSecurity
 
 An offensive development group, led by [bluecosmo](https://github.com/prettyboycosmo)
 
