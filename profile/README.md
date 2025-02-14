@@ -2,8 +2,6 @@
 
 An offensive development group, led by [bluecosmo](https://github.com/prettyboycosmo)
 
----
-
 ## Socials:
 - [Website](https://cosmodiumcs.com)
 - [YouTube](https://youtube.com/cosmodiumcs)
