@@ -29,11 +29,10 @@ An offensive development group, led by [bluecosmo](https://github.com/prettyboyc
 
 | MARK | DESCRIPTION | YT |
 | ---- | ----------- | -- |
-| [MK18-HeRanSomewhere]() | ransomware tool for testing security | [YT](https://www.youtube.com/watch?v=qyLlB_oiOXM) |
-| [MK16-SpiderCat](https://github.com/CosmodiumCS/MK16-SpiderCat) | obsidian reconnaissance framework |
-| [MK15-SkeletonKey](https://github.com/CosmodiumCS/MK15-SkeletonKey) | cryptography hacking suite | [YT](https://www.youtube.com/playlist?list=PL_dk67mLCSFHIcxmzhXE37tjROyyQnRI5) |
-| [MK14-SuperVision](https://github.com/CosmodiumCS/supervision-vanilla) | an open data map with cameras, transit, and other shit | [YT](https://www.youtube.com/playlist?list=PL_dk67mLCSFHc99hAMT_wpao-o63T1xui) |
-| [MK04-Rossy](https://github.com/CosmodiumCS/MK04-Rossy) | second iteration of discord RAT, compiled to exe |
-| [MK02-Rexord](https://github.com/CosmodiumCS/MK02-Rexord) | the first iteration of our discord RAT | [YT](https://www.youtube.com/watch?v=xowncNKUziA) |
+| [MK16-SpiderCat](https://github.com/CosmodiumCS/MK16-SpiderCat) | Obsidian reconnaissance framework | [YT](https://www.youtube.com/watch?v=qyLlB_oiOXM) |
+| [MK15-SkeletonKey](https://github.com/CosmodiumCS/MK15-SkeletonKey) | Cryptography hacking suite | [YT](https://www.youtube.com/playlist?list=PL_dk67mLCSFHIcxmzhXE37tjROyyQnRI5) |
+| [MK14-SuperVision](https://github.com/CosmodiumCS/supervision-vanilla) | An open data map with cameras, transit, and other shit | [YT](https://www.youtube.com/playlist?list=PL_dk67mLCSFHc99hAMT_wpao-o63T1xui) |
+| [MK04-Rossy](https://github.com/CosmodiumCS/MK04-Rossy) | Second iteration of discord RAT, compiled to exe |
+| [MK02-Rexord](https://github.com/CosmodiumCS/MK02-Rexord) | The first iteration of our discord RAT | [YT](https://www.youtube.com/watch?v=xowncNKUziA) |
 | [MK01-OnlyRAT](https://github.com/CosmodiumCS/MK01-OnlyRAT) | SSH, virtually fileless, network oreinted RAT | [YT](https://www.youtube.com/playlist?list=PL_dk67mLCSFE1dTqQqpRDFTfEGh9mE7MY) |
 | [MK00-www.CosmodiumCS.com](https://github.com/CosmodiumCS/MK00-www.CosmodiumCS.com) | CosmodiumCS Website | [YT](https://www.youtube.com/live/ybWGnMWKUd0?si=xVDQ0bfntdchQaZz) |
