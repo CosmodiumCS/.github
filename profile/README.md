@@ -25,7 +25,7 @@ An offensive development group, led by [bluecosmo](https://github.com/prettyboyc
 ---
 
 ## Marks: [UNCLASSIFIED]
-- Visit [CCMS]() for more information on marking system
+- Visit [CCMS](https://www.cosmodiumcs.com/research/ccs-marking-standard.md) for more information on marking system
 
 | MARK | DESCRIPTION | YT |
 | ---- | ----------- | -- |
